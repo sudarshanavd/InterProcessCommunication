@@ -1,0 +1,10 @@
+1) Consumer: 59 is ODD
+2) Consumer: 69 is ODD
+3) Consumer: 40 is EVEN
+4) Consumer: 36 is EVEN
+5) Consumer: 99 is ODD
+6) Consumer: 6 is EVEN
+7) Consumer: 36 is EVEN
+8) Consumer: 35 is ODD
+9) Consumer: 42 is EVEN
+10) Consumer: 19 is ODD
